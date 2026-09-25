@@ -1,0 +1,15 @@
+{
+    "geode": "3.0.0-beta.1",
+    "version": "v1.0.0",
+    "id": "yourname.workbench_mod",
+    "name": "Icon and Button Workbench",
+    "developer": "YourName",
+    "description": "A custom layout workstation to build custom game buttons and style layout text.",
+    "dependencies": [
+        {
+            "id": "geode.node-ids",
+            "version": ">=1.0.0",
+            "importance": "required"
+        }
+    ]
+}
